@@ -1,0 +1,3 @@
+TODO: check to make sure count_file.txt is being read and counted properly
+TODO: create test.c file to test reading is being done properly
+TODO:
