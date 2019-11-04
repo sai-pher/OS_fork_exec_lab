@@ -53,6 +53,7 @@ int main(int argc, const char *argv[]) {
         printf("\nfile %s has %d words\n", argv[1], word_count);
     }
 
+
     // Process tree
 
     int child_process = fork();
